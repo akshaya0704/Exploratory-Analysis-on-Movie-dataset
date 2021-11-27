@@ -4,7 +4,7 @@ This was a part of out 6th Semester Mini Project.
 Group Members: Akshaya Ramanathan, Ramita Shinde, Rutuja Phatak
 
 Introduction:
-The data set I chose is Movie dataset. You can find this dataset easily from kaggle.
+The data set we chose is Movie dataset. You can find this dataset easily from kaggle.
 -->Here are some notes and comments about this datasets : This data set contains information about 10,000 movies collected from The Movie Database (TMDb), including user 
    ratings and revenue.
 -->Certain columns, like ‘cast’ and ‘genres’, contain multiple values separated by pipe (|) characters.
